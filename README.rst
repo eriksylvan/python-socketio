@@ -20,3 +20,5 @@ Resources
 .. _Change Log: https://github.com/miguelgrinberg/python-socketio/blob/master/CHANGES.md
 .. _questions: https://stackoverflow.com/questions/tagged/python-socketio
 .. _ask: https://stackoverflow.com/questions/ask?tags=python+python-socketio
+
+.. add
